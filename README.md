@@ -3,7 +3,7 @@ This project scrapes real estate data for rental apartments in Tel Aviv from inc
 
 📓 Notebook
 
-👉 [Open on nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/adirbella37/NYPD-Shooting-Incident-Project/main/NYPD_Shooting_Incident_Project.ipynb)
+👉 [Open on nbviewer](https://nbviewer.org/url/https://github.com/adirbella37/Tel-Aviv-Apartments-Data-Scraping/blob/main/web_scraping.ipynb)
 
 ⚙️ Technologies
 - Python
