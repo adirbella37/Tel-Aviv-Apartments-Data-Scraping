@@ -11,7 +11,9 @@ This project scrapes real estate data for rental apartments in Tel Aviv from inc
 - CSV — output data for further analysis
 
 ▶️ How to run
+
 You can get this project in two ways:
+
 **Option 1 – Using Git:**
 Clone or download this repository:
 git clone https://github.com/adirbella37/Tel-Aviv-Apartments-Data-Scraping.git
