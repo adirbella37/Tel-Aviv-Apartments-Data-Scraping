@@ -2,6 +2,7 @@
 This project scrapes real estate data for rental apartments in Tel Aviv from including important details like property type, neighborhood, price, and more. It also calculates the distance of each apartment from Dizengoff Square using the Google Distance Matrix API.
 
 📓 Notebook
+
 👉 [Open on nbviewer](https://nbviewer.org/url/raw.githubusercontent.com/adirbella37/NYPD-Shooting-Incident-Project/main/NYPD_Shooting_Incident_Project.ipynb)
 
 ⚙️ Technologies
