@@ -1,5 +1,5 @@
 # Tel-Aviv-Apartments-Data-Scraping
-This project scrapes real estate data for rental apartments in Tel Aviv including essential property details like type, neighborhood, price, and more. It also calculates the distance of each apartment from Dizengoff Square using the Google Distance Matrix API.
+This project scrapes real estate data for rental apartments in Tel Aviv from ad.co.il, including important details like property type, neighborhood, price, and more. It also calculates the distance of each apartment from Dizengoff Square using the Google Distance Matrix API.
 
 ### Features
 * Scrapes data on apartments, including property type, price, number of rooms, amenities, and more.
