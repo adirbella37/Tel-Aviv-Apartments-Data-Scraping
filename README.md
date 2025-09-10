@@ -12,6 +12,14 @@ The notebook covers web scraping, data cleaning, calculating distances using the
 - Google Distance Matrix API — calculating distance from Dizengoff Square
 - CSV — output data for further analysis
 
+## 📂 Project Structure
+
+| File/Folder       | Description                                 |
+|-------------------|---------------------------------------------|
+| `web_scraping.ipynb` | Main Jupyter Notebook for web scraping and preprocessing |
+| `data.csv`        | Scraped apartment dataset (CSV format)      |
+| `README.md`       | Project documentation                       |
+
 ## ▶️ How to run
 
 You can get this project in two ways:
@@ -26,14 +34,6 @@ cd Tel-Aviv-Apartments-Data-Scraping
 1. Click the green Code button at the top of this repository
 2. Select Download ZIP
 3. Extract the ZIP file on your computer
-
-## 📂 Project Structure
-
-| File/Folder       | Description                                 |
-|-------------------|---------------------------------------------|
-| `web_scraping.ipynb` | Main Jupyter Notebook for web scraping and preprocessing |
-| `data.csv`        | Scraped apartment dataset (CSV format)      |
-| `README.md`       | Project documentation                       |
 
 ## 📜 License
 This project is licensed under the MIT License.
